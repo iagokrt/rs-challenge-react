@@ -1,0 +1,6 @@
+{
+  "apiEndpoint": "https://space-myf.prismic.io/api/v2",
+  "libraries": [
+    "@/slices"
+  ]
+}
